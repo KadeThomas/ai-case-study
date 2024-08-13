@@ -13,7 +13,7 @@
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-![Project Logo](Desktop/Activites/ai-case-study/Data.png)
+![Project Logo](Images/Data.png)
 ## Landscape
 
 * What field is the company in?
