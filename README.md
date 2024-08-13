@@ -12,7 +12,8 @@
  Autodesk notes that they plan to implement computer vision AI within this BIM software to ensure a safer and more productive work site. An example of this would be cameras set up around the site to ensure trade workers have all their required PPE equipped; If someone is flagged for not wearing an item like gloves the project manager gets notified. As this technology develops with more and more data Autodesk believes they will be able to predict when incidents are more likely to happen helping to prevent them in the future. <br>
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-![Project Logo][Desktop/Activites/ai-case-study/Data.png]
+
+![Project Logo](Desktop/Activites/ai-case-study/Data.png)
 ## Landscape
 
 * What field is the company in?
