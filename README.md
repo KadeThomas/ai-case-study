@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-[Autodesk](https://www.autodesk.com/company) is a Fortune 500 company that was founded in 1982 by Dan Drake and Jon Walker. Autodesk was imagined by the development of a software known as AutoCAD that helped with the visualization of infrastructure design and construction. This software created a more collaborative construction environment that greatly reduced overall construction times. Autodesk over the years have developed many other product lines and softwares that help with everything from architect design assistance, to building management post construction. Autodesk is currently lead by CEO, Andrew Anagost, who with his team, continue to develop more groundbreaking softwares frequently. That being said, this report will focus mainly on the BIM and collaboration side of Autodesk due to the implementation of AI and ML in these sectors. 
+[Autodesk](https://www.autodesk.com/company) is a Fortune 500 company founded in 1982 by Dan Drake and Jon Walker. Autodesk was imagined by the development of software known as AutoCAD which helped with the visualization of infrastructure design and construction. This software created a more collaborative construction environment that greatly reduced overall construction times. Autodesk over the years has developed many other product lines and software that help with everything from architect design assistance to building management post-construction. Autodesk is currently led by CEO, Andrew Anagost, who with his team, continues to develop more groundbreaking software frequently. This report will focus mainly on the BIM and collaboration side of Autodesk due to the implementation of A.I. and M.L. in these sectors. 
 
 ## Business Activities
 
