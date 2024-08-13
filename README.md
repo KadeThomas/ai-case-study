@@ -1,4 +1,4 @@
-# AI In Construction Managment
+# A.I. In Construction Managment
 
 ## Overview and Origin
 
