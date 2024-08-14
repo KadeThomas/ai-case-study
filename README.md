@@ -7,7 +7,7 @@
 ## Business Activities
 
  Initially, AutoCAD was used to create 2D models of architectural drawings. Through the years AutoCAD continued to develop, implementing 3D models, a user-friendly interface, and cloud integration. In 2020 AutoCAD began implementing generative design A.I. and Machine Learning within the program. They are actively developing and adding to the data used for these new systems through internal and customer data analysis. <br>
- With that being said, Currently, you can generate a complete set of infrastructure plans and 4D, 5D, and 6D models with a list of commands. Then the software can recommend certain sustainability efforts/materials to use, and flag any issues with the internal plumbing, electrical, or HVAC systems that would usually only come up once construction is underway.(4) All this is extremely helpful for boosting productivity especially when paired with another Autodesk software known as Revit. <br>
+ "Currently, you can generate a complete set of infrastructure plans and 4D, 5D, and 6D models with a list of commands. Then the software can recommend certain sustainability efforts/materials to use, and flag any issues with the internal plumbing, electrical, or HVAC systems that would usually only come up once construction is underway".[(4)](https://constructible.trimble.com/construction-industry/what-is-bim-building-information-modeling) All this is extremely helpful for boosting productivity especially when paired with another Autodesk software known as Revit. <br>
  Revit is one of Autodesk’s BIM (Building Information Modeling) softwares that helps with the collaboration of all different trades on a construction site. The BIM software segment of Autodesk is intended for planning and construction; this would include Architects, Engineers, and Contractors. The global market for BIM solutions is currently estimated at 8 billion USD and is expected to grow to 14.8 billion USD. Autodesk Revit holds 40% of that global market share. Due to its major market share, Autodesk’s BIM software has a competitive advantage that can be leveraged to develop A.I. tools faster and more efficiently because of the availability of more data points and history to analyze. <br>
  ![Project Logo](Images/Data.png)
 
@@ -52,7 +52,7 @@ Autodesk’s BIM programs have been a significant source of revenue for the comp
 
 Introducing these features would further increase efficiency, sustainability, and safety metrics; which are all very important to the Autodesk consumer. To do this successfully Autodesk must leverage AI and ML technology while successfully syncing current cloud computing and adding Big Data analysis to every individual project. This will ensure that future projects get the most beneficial versions of these technological implementations. 
 
-Useful Links:
+### Useful Links:
 1. Market Data: https://www.marketsandmarkets.com/Market-Reports/building-information-modeling-market-95037387.html
 2. Market Data: https://6sense.com/tech/bim-and-architectural-design-software/autodesk-revit-market-share#
 3. Tech Data: https://stackshare.io/autodesk/autocad-360-backend
