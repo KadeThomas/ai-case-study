@@ -20,11 +20,11 @@ Currently, AutoCADs most used application is Python and their most used DevOps i
   - Redis
   - Django
   - Apache Tomcat
-  - Other Amazon services
-
-| Java       | Django        |
-| NGINX      | Apache Tomcat |
-| PostgreSQL | Redis         |
+  - Other Amazon services\
+|---------------|---------------|
+| Java          | Django        |
+| NGINX         | Apache Tomcat |
+| PostgreSQL    | Redis         |
 
 And DevOps such as:
 
