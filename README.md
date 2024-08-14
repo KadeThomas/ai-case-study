@@ -21,23 +21,21 @@ Currently, AutoCADs most used application is Python and their most used DevOps i
   - Django
   - Apache Tomcat
   - Other Amazon services\
-|---------------|---------------|
-| Java          | Django        |
-| NGINX         | Apache Tomcat |
-| PostgreSQL    | Redis         |
 
 And DevOps such as:
-
   - Jenkins
   - New Relic
 
 ## Landscape
 
-* What field is the company in?
+Autodesk develops software programs focused on design, engineering, and collaboration for the construction of infrastructure. Within this field, there have been countless trends and innovations within the last 5 years. Most of the innovations are more related to hardware such as VR safety goggles that allow you to see site drawings on the field while doing work. Every month there seems to be a new promise of some type of revolutionary technology for the world of construction that later gets unrealized due to cost issues both for production and for implementation. Autodesk and other software developers aim to achieve these types of hardware benefits without the long-term costs of implementation. 
+<br>
+Autodesks Competitors:
+* Bentley Systems (civil projects)
+* Trimble (Tekla Structure)
+* Graphisoft (Design/ architect focused) 
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
+Autodesk’s biggest competitor is Bentley Systems which specializes in BIM services for civil projects like roads. Bentley Systems is known for its ability to manage very large-scale civil projects due to more freedoms in the system for organizational practices. Although this could be preferred for some general contractors it dampens Bentley Systems’ ability to implement specialized A.I. knowledge like Autodesk should be able to. 
 
 ## Results
 
