@@ -7,7 +7,7 @@
 ## Business Activities
 
  Initially, AutoCAD was used to create 2D models of architectural drawings. Through the years AutoCAD continued to develop, implementing 3D models, a user-friendly interface, and cloud integration. In 2020 AutoCAD began implementing generative design A.I. and Machine Learning within the program. They are actively developing and adding to the data used for these new systems through internal and customer data analysis. <br>
- With that being said, Currently, you can generate a complete set of infrastructure plans and 3D models with a list of commands. Then the software can recommend certain sustainability efforts/materials to use, and flag any issues with the internal plumbing, electrical, or HVAC systems that would usually only come up once construction is underway. All this is extremely helpful for boosting productivity especially when paired with another Autodesk software known as Revit. <br>
+ With that being said, Currently, you can generate a complete set of infrastructure plans and 4D, 5D, and 6D models with a list of commands. Then the software can recommend certain sustainability efforts/materials to use, and flag any issues with the internal plumbing, electrical, or HVAC systems that would usually only come up once construction is underway.(4) All this is extremely helpful for boosting productivity especially when paired with another Autodesk software known as Revit. <br>
  Revit is one of Autodesk’s BIM (Building Information Modeling) softwares that helps with the collaboration of all different trades on a construction site. The BIM software segment of Autodesk is intended for planning and construction; this would include Architects, Engineers, and Contractors. The global market for BIM solutions is currently estimated at 8 billion USD and is expected to grow to 14.8 billion USD. Autodesk Revit holds 40% of that global market share. Due to its major market share, Autodesk’s BIM software has a competitive advantage that can be leveraged to develop A.I. tools faster and more efficiently because of the availability of more data points and history to analyze. <br>
  ![Project Logo](Images/Data.png)
 
@@ -30,7 +30,6 @@ Currently, AutoCADs most used application is Python and their most used DevOps i
 
 Autodesk develops software programs focused on design, engineering, and collaboration for the construction of infrastructure. Within this field, there have been countless trends and innovations within the last 5 years. Most of the innovations are more related to hardware such as VR safety goggles that allow you to see site drawings on the field while doing work. Every month there seems to be a new promise of some type of revolutionary technology for the world of construction that later gets unrealized due to cost issues both for production and for implementation. Autodesk and other software developers aim to achieve these types of hardware benefits without the long-term costs of implementation. 
 <br>
-<br>
 
 *Autodesks Competitors:*
 
@@ -42,21 +41,23 @@ Autodesk’s biggest competitor is Bentley Systems which specializes in BIM serv
 
 ## Results
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-
-* How is your company performing relative to competitors in the same field?
+Autodesk’s BIM programs have been a significant source of revenue for the company since the development. These programs have established themselves as the industry standard/market leader for construction management and design software. Autodesk uses three main metrics when it comes to measuring the success of its programs: Project efficiency, Cost metrics, and Collaboration Metrics. Implementing AI and ML will greatly benefit these success metrics because it can streamline the design process, ensure accuracy using 3D models, and predict and prevent safety incidents. Autodesk is often seen as an innovator relative to its competitors in the same field. Autodesk leads in market share against its competitors, and its BIM product ecosystem provides them with a competitive advantage. Overall, Autodesk continues to show strong growth in revenue while advancing with innovation over their competitors.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+### 3 recommendations:
+* AI-powered design assistant
+* AI-powered planning assistant
+* AI-powered safety metrics
 
-* Why do you think that offering this product or service would benefit the company?
+Introducing these features would further increase efficiency, sustainability, and safety metrics; which are all very important to the Autodesk consumer. To do this successfully Autodesk must leverage AI and ML technology while successfully syncing current cloud computing and adding Big Data analysis to every individual project. This will ensure that future projects get the most beneficial versions of these technological implementations. 
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?# ai-case-study
+Useful Links:
+1. Market Data: https://www.marketsandmarkets.com/Market-Reports/building-information-modeling-market-95037387.html
+2. Market Data: https://6sense.com/tech/bim-and-architectural-design-software/autodesk-revit-market-share#
+3. Tech Data: https://stackshare.io/autodesk/autocad-360-backend
+4. Example Data: https://constructible.trimble.com/construction-industry/what-is-bim-building-information-modeling
+5. Example Data 2:https://constructible.trimble.com/construction-industry/the-benefits-of-ai-in-construction
 
 [def]: https://www.autodesk.com/company
 [def2]: Desktop/Activites/ai-case-study/Data.png
