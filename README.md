@@ -13,18 +13,7 @@
 
  Autodesk notes that they plan to implement computer vision AI within this BIM software to ensure a safer and more productive work site. An example of this would be cameras set up around the site to ensure trade workers have all their required PPE equipped; If someone is flagged for not wearing an item like gloves the project manager gets notified. As this technology develops with more and more data Autodesk believes they will be able to predict when incidents are more likely to happen helping to prevent them in the future. <br>
 
-Currently, AutoCADs most used application is Python and their most used DevOps is Git. Along with this AutoCAD also uses applications such as: 
-  - Java
-  - NGINX
-  - PostgreSQL
-  - Redis
-  - Django
-  - Apache Tomcat
-  - Other Amazon services\
-
-And DevOps such as:
-  - Jenkins
-  - New Relic
+Currently, AutoCADs most used application is Python and their most used DevOps is Git. Along with this AutoCAD also use the bellow table list:
 
 | Applications                     | DevOps                          |
 |---------------------------------|---------------------------------|
