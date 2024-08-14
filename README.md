@@ -41,14 +41,17 @@ Autodesk’s biggest competitor is Bentley Systems which specializes in BIM serv
 
 ## Results
 
-Autodesk’s BIM programs have been a significant source of revenue for the company since the development. These programs have established themselves as the industry standard/market leader for construction management and design software. Autodesk uses three main metrics when it comes to measuring the success of its programs: Project efficiency, Cost metrics, and Collaboration Metrics. Implementing AI and ML will greatly benefit these success metrics because it can streamline the design process, ensure accuracy using 3D models, and predict and prevent safety incidents. Autodesk is often seen as an innovator relative to its competitors in the same field. Autodesk leads in market share against its competitors, and its BIM product ecosystem provides them with a competitive advantage. Overall, Autodesk continues to show strong growth in revenue while advancing with innovation over their competitors.
+"Autodesk’s BIM programs have been a significant source of revenue for the company since the development. These programs have established themselves as the industry standard/market leader for construction management and design software".[(6)](https://www.autodesk.com/company) Autodesk uses three main metrics when it comes to measuring the success of its programs: Project efficiency, Cost metrics, and Collaboration Metrics. Implementing AI and ML will greatly benefit these success metrics because it can streamline the design process, ensure accuracy using 3D models, and predict and prevent safety incidents. Autodesk is often seen as an innovator relative to its competitors in the same field. Autodesk leads in market share against its competitors, and its BIM product ecosystem provides them with a competitive advantage. Overall, Autodesk continues to show strong growth in revenue while advancing with innovation over their competitors.
 
 ## Recommendations
 
 ### *3 recommendations:*
 * AI-powered design assistant
+    * This would be generative AI that can build infrastructure designs from the ground up. This AI knowledge would have to be based on all things construction from rebar placement before concrete pour to how to install lighting fixtures. This would help architects with generating ideas for design, as well as understand what would be physically possible to build. This would greatly increase the efficiency of design and planning. 
 * AI-powered planning assistant
+    * This would be similar to the first recommendation but more specific to the materials being used. This AI knowledge would have to be based on current materials popular in construction with an emphasis on sustainable materials. This AI would be able to generate ideas for materials to use in construction as well as suggest less expensive or more sustainable materials that look similar to the originally proposed material. This would greatly reduce costs in construction as well as increase overall efficiency. 
 * AI-powered safety metrics
+    * This AI would be both an advanced analysis of past data to make future predictions as well as a visual analysis to ensure current safety standards are met.  As seen on link [(4)](https://constructible.trimble.com/construction-industry/what-is-bim-building-information-modeling) implementing AI and analyzing big data related to safety can help dramatically when predicting safety incidents. Also, the use of visual analysis in the form of cameras with visual recognition-AI on site that scan for all appropriate PPE can be used to prevent incidents from happening before work is even begun.
 
 Introducing these features would further increase efficiency, sustainability, and safety metrics; which are all very important to the Autodesk consumer. To do this successfully Autodesk must leverage AI and ML technology while successfully syncing current cloud computing and adding Big Data analysis to every individual project. This will ensure that future projects get the most beneficial versions of these technological implementations. 
 
@@ -58,6 +61,6 @@ Introducing these features would further increase efficiency, sustainability, an
 3. Tech Data: https://stackshare.io/autodesk/autocad-360-backend
 4. Example Data: https://constructible.trimble.com/construction-industry/what-is-bim-building-information-modeling
 5. Example Data 2:https://constructible.trimble.com/construction-industry/the-benefits-of-ai-in-construction
-
+6. [Autodesk Link](https://www.autodesk.com/company) 
 [def]: https://www.autodesk.com/company
 [def2]: Desktop/Activites/ai-case-study/Data.png
