@@ -26,6 +26,17 @@ And DevOps such as:
   - Jenkins
   - New Relic
 
+| Applications                     | DevOps                          |
+|---------------------------------|---------------------------------|
+| Java                            | Jenkins                          |
+| NGINX                            | New Relic                        |
+| PostgreSQL                       |                                 |
+| Redis                            |                                 |
+| Django                           |                                 |
+| Apache Tomcat                    |                                 |
+| Other Amazon services            |                                 |
+
+
 ## Landscape
 
 Autodesk develops software programs focused on design, engineering, and collaboration for the construction of infrastructure. Within this field, there have been countless trends and innovations within the last 5 years. Most of the innovations are more related to hardware such as VR safety goggles that allow you to see site drawings on the field while doing work. Every month there seems to be a new promise of some type of revolutionary technology for the world of construction that later gets unrealized due to cost issues both for production and for implementation. Autodesk and other software developers aim to achieve these types of hardware benefits without the long-term costs of implementation. 
